@@ -147,7 +147,7 @@ pip install torch numpy scikit-learn
 <hr/>
 
 <h2>📄 License</h2>
-<p>MIT (or your preferred license).</p>
+<p>MIT.</p>
 
 <hr/>
 
